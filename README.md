@@ -1,4 +1,4 @@
-## Olá eu sou o Kevin Lucas, Desenvolvedor Fullstack!
+## Olá eu sou o Kevin Lucas, Desenvolvedor Mobile!
 
 <div align="center">
   <a href="https://github.com/kevin-lucas">
